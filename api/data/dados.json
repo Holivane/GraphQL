@@ -1,11 +1,11 @@
 {
   "users": [
     {
-      "id": 1,
-      "nome": "Ana Torre",
+      "nome": "Holi",
       "ativo": true,
-      "email": "a@a.com",
-      "role": 1
+      "email": "h@h.com",
+      "role": 1,
+      "id": 1
     },
     {
       "id": 2,
@@ -50,25 +50,28 @@
       "role": 1
     },
     {
-      "nome": "Claudia Barros",
+      "nome": "Bárbara Barros",
       "ativo": true,
-      "email": "c@c.com",
-      "role": 2,
+      "email": "j@al.com",
+      "role": 1,
+      "createdAt": "2022-03-27T00:00:00.000Z",
       "id": 8
     },
     {
-      "nome": "Ana Laura Barros",
+      "nome": "Julia Barros",
       "ativo": true,
-      "email": "al@al.com",
-      "role": 1,
-      "id": 10
+      "email": "j@al.com",
+      "role": 2,
+      "createdAt": "2022-03-27T00:00:00.000Z",
+      "id": 9
     },
     {
-      "nome": "Joana Laura Barros",
+      "nome": "Julia Barros",
       "ativo": true,
-      "email": "jl@al.com",
-      "role": 1,
-      "id": 11
+      "email": "j@al.com",
+      "role": 2,
+      "createdAt": "2022-03-27T00:00:00.000Z",
+      "id": 10
     }
   ],
   "roles": [
