@@ -41,6 +41,34 @@
       "ativo": true,
       "email": "m@m.com",
       "role": 2
+    },
+    {
+      "id": 7,
+      "nome": "Laura",
+      "ativo": true,
+      "email": "l@l.com",
+      "role": 1
+    },
+    {
+      "nome": "Claudia Barros",
+      "ativo": true,
+      "email": "c@c.com",
+      "role": 2,
+      "id": 8
+    },
+    {
+      "nome": "Ana Laura Barros",
+      "ativo": true,
+      "email": "al@al.com",
+      "role": 1,
+      "id": 10
+    },
+    {
+      "nome": "Joana Laura Barros",
+      "ativo": true,
+      "email": "jl@al.com",
+      "role": 1,
+      "id": 11
     }
   ],
   "roles": [
